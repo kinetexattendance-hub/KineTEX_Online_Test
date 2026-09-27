@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "studentPin": "1234",
+    "adminPin": "9988",
+    "timePerQuestion": 15
+  },
+  "categories": [
+    "Basic",
+    "Basic To Control Panel",
+    "Microsoft Word",
+    "Overall",
+    "Graphic Design",
+    "Web Development"
+  ],
+  "passingScores": {
+    "Basic": 1,
+    "Basic To Control Panel": 1,
+    "Microsoft Word": 1,
+    "Overall": 1,
+    "Graphic Design": 1,
+    "Web Development": 1
+  },
+  "questions": {
+    "Basic": [
+      {"id":"basic-1","q":"1. KineTEX Institute Kandhkot offers which special feature?","options":["Gamified Learning","Manual Tests","Static Books","None"],"answer":0,"marks":1},
+      {"id":"basic-2","q":"2. Full form of CPU is?","options":["Central Processing Unit","Control Power Unit","Computer Print Unit","None"],"answer":0,"marks":1}
+    ],
+    "Basic To Control Panel": [],
+    "Microsoft Word": [
+      {"id":"word-1","q":"1. Shortcut key for Copy in MS Word?","options":["Ctrl+V","Ctrl+C","Ctrl+X","Ctrl+Z"],"answer":1,"marks":2}
+    ],
+    "Overall": [],
+    "Graphic Design": [],
+    "Web Development": []
+  },
+  "participants": [],
+  "results": [],
+  "live": {"status":"WAITING","sessionId":null,"startedAt":null,"category":null}
+}
